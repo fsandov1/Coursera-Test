@@ -1,0 +1,21 @@
+
+
+.food {
+	border: 2px solid;
+	background-color: rgb(185,179,175)
+
+}
+
+/* this will apply to every box with the division as food class ! */
+
+
+
+
+h1 {
+	font-size: 27px;
+	text-align: center;
+	color: rgb(0, 0, 0);
+	margin-bottom: 75px;
+}
+
+h2 {text-align: right}
